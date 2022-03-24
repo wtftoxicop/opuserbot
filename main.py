@@ -9,7 +9,7 @@ async def main():
     print(
         """
     ------------------
-   | Userbot Started! POWERED BY @SANKIXWORLD |
+   | Userbot Started! POWERED BY @WTF_NAVYA |
     ------------------
 """
     )
