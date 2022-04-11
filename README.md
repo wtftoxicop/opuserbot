@@ -1,4 +1,4 @@
-h2 align="centre">Navya Music Player</h2>
+
 
 <p align="center"><a href="https://t.me/WTF_NAVYA"><img src="https://telegra.ph/file/d49ba007be76ed2566d85.jpg"></a></p>
 
