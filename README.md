@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://t.me/WTF_NAVYA"><img src="https://te.legra.ph/file/ef24da03a3a2d046bf528.jpg"></a></p>
+<p align="center"><a href="https://t.me/WTF_NAVYA"><img src="https://telegra.ph//file/df6dd71fe22b4c51f8594.jpg"></a></p>
 
 ### Deploy To Railway
 
